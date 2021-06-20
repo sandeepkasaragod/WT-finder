@@ -6,7 +6,7 @@ The program provides two outputs.
 
 The tab delimited file provides the following information
 
-id: accession number <br />
+<b>id</b>: accession number <br />
 TD: -1 for deocy and 1 for wild-type peptides <br />
 ScanNr: m/z scan number <br />
 numberOfMatchingPeaks: number of b and y mathced with raw m/z peaks <br />
