@@ -5,5 +5,6 @@ The program provides two outputs.
 2. Tab delimited output
 
 The tab delimited file provides the following information
+
 id, TD, ScanNr, numberOfMatchingPeaks, charge, Exp.Mz, RTinSec, Theo.Mz, Delta_Mass_Error(PPM), length, peptide and protein accession
 
