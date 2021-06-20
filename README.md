@@ -19,3 +19,5 @@ The tab delimited file provides the following information
 <b>peptide</b>: wild-type peptide <br />
 <b>protein</b>: protein accession number <br />
 
+![alt text](https://github.com/sandeepkasaragod/WT-finder/blob/main/doc/QNQHEELQNVRK_00522_E02_P003811_B0M_A00_R1.png)
+
