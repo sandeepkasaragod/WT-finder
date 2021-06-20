@@ -6,16 +6,16 @@ The program provides two outputs.
 
 The tab delimited file provides the following information
 
-id: accession number
-TD: -1 for deocy and 1 for wild-type peptides, 
-ScanNr: m/z scan number
-numberOfMatchingPeaks: number of b and y mathced with raw m/z peaks 
-charge: charge of identified peptides (from raw file)
-Exp.Mz: exprimental m/z values
-RTinSec: retention time at peptides identified
-Theo.Mz: theoratical m/z values
-Delta_Mass_Error(PPM):
-length: lenght of peptides
-peptide: wild-type peptide
-protein: protein accession number
+id: accession number <br />
+TD: -1 for deocy and 1 for wild-type peptides <br />
+ScanNr: m/z scan number <br />
+numberOfMatchingPeaks: number of b and y mathced with raw m/z peaks <br />
+charge: charge of identified peptides (from raw file) <br />
+Exp.Mz: exprimental m/z values <br />
+RTinSec: retention time at peptides identified <br />
+Theo.Mz: theoratical m/z values <br />
+Delta_Mass_Error(PPM): <br />
+length: lenght of peptides <br />
+peptide: wild-type peptide <br />
+protein: protein accession number <br />
 
