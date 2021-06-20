@@ -19,6 +19,10 @@ The tab delimited file provides the following information
 <b>peptide</b>: wild-type peptide <br />
 <b>protein</b>: protein accession number <br />
 
+Example of number of b and y ions matches 
+<p align="center">
+<img src="./doc/QNQHEELQNVRK_00522_E02_P003811_B0M_A00_R1.png" width="800px" height="auto">
+</p>
 ![alt text](https://github.com/sandeepkasaragod/WT-finder/blob/main/doc/QNQHEELQNVRK_00522_E02_P003811_B0M_A00_R1.png)
 ![alt text](https://github.com/sandeepkasaragod/WT-finder/blob/main/doc/Example_output.png)
 
