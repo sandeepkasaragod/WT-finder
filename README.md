@@ -23,6 +23,9 @@ Example of number of b and y ions matches
 <p align="center">
 <img src="./doc/QNQHEELQNVRK_00522_E02_P003811_B0M_A00_R1.png" width="800px" height="auto">
 </p>
-![alt text](https://github.com/sandeepkasaragod/WT-finder/blob/main/doc/QNQHEELQNVRK_00522_E02_P003811_B0M_A00_R1.png)
-![alt text](https://github.com/sandeepkasaragod/WT-finder/blob/main/doc/Example_output.png)
+
+Example of tab delimited output. 
+<p align="center">
+<img src="./doc/Example_output.png" width="800px" height="auto">
+</p>
 
