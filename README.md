@@ -2,7 +2,7 @@ WT-finder is a python script for identifying the wild-type peptide counterpart o
 The program provides two outputs.
 
 ### Requiments
-python 3.8
+	- python 3.8
 	- pip install pyteomics
 	- pip install numpy
 	- pip install matplotlib
