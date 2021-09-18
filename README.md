@@ -7,6 +7,12 @@ The program provides two outputs.
 	- pip install numpy
 	- pip install matplotlib
 
+### Preparing for the execution
+Go to WT-finder script and edit line 27, 28, 29
+
+### Executing script
+	- python WT-finder.py
+
 1. An image file with the peptides b and y ion match
 2. Tab delimited output
 
@@ -35,3 +41,6 @@ Example of tab delimited output.
 <img src="./doc/Example_output.png" width="800px" height="auto">
 </p>
 
+### Queries and bugs
+Sandeep Kasaragod <sandeep.kolya@gmail.com>
+Chinmaya Narayana <chinnu.kemmaai@gmail.com>
