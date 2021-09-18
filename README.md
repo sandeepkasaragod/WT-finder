@@ -42,5 +42,5 @@ Example of tab delimited output.
 </p>
 
 ### Queries and bugs
-Sandeep Kasaragod <sandeep.kolya@gmail.com>
-Chinmaya Narayana <chinnu.kemmaai@gmail.com>
+	Sandeep Kasaragod <sandeep.kolya@gmail.com>
+	Chinmaya Narayana <chinnu.kemmaai@gmail.com>
